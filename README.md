@@ -130,4 +130,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  06/24/2025 04-49 Links resolved
+
+
+Update:  26.06.2025 Template URLs
