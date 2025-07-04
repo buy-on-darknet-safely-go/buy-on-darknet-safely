@@ -132,4 +132,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  26.06.2025 Template URLs
+
+
+Update:  07/04/2025 url is back online and live
